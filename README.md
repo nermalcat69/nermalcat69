@@ -2,14 +2,7 @@
 
 ## Hey, I'm Nermal
 
-<p align="center">
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/JsAditya?style=flat&label=nermalcat69&logo=twitter&color=0bf&logoColor=fff" alt="nermalcat" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/github/stars/nermalcat69/precedent?label=nermalcat69" alt="Precedent repo star count" />
-  </a>
-</p>
+
 
 ### My Skills
   #### Frontend & Backend
