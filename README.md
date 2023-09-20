@@ -1,10 +1,10 @@
 
-## My Skills
-  ### Frontend & Backend
+### My Skills
+  #### Frontend & Backend
   ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,tailwind,materialui,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma,webpack,gulp)
-  ### Tools for Development & Design
+  #### Tools for Development & Design
   ![My Skills](https://skillicons.dev/icons?i=supabase,aws,gcp,vercel,netlify,firebase,docker,heroku,visualstudio,webflow,postman,cloudflare,ae,xd,figma,pr,ps)
-  ### Databases
+  #### Databases
   ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,dynamodb)
 
 <p align="center">
