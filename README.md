@@ -4,10 +4,10 @@ Hey, I'm Nermal
 
 <p align="center">
   <a href="https://twitter.com/">
-    <img src="https://img.shields.io/twitter/follow/steventey?style=flat&label=steventey&logo=twitter&color=0bf&logoColor=fff" alt="Steven Tey Twitter follower count" />
+    <img src="https://img.shields.io/twitter/follow/JsAditya?style=flat&label=nermalcat69&logo=twitter&color=0bf&logoColor=fff" alt="nermalcat" />
   </a>
   <a href="https://github.com/">
-    <img src="https://img.shields.io/github/stars/steven-tey/precedent?label=steven-tey%2Fprecedent" alt="Precedent repo star count" />
+    <img src="https://img.shields.io/github/stars/nermalcat69/precedent?label=nermalcat69" alt="Precedent repo star count" />
   </a>
 </p>
 ### My Skills
