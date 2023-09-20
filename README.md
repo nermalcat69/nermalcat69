@@ -1,7 +1,7 @@
 
 ## My Skills
   ### Frontend & Backend
-  ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma)
+  ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma)
 
   ### UI Libraries
   ![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)
