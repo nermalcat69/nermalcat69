@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nermalcat69&label=Profile%20views&color=0e75b6&style=flat" alt="nermalcat69" /> </p>
 
-Hey, I'm Nermal
+## Hey, I'm Nermal
 
 <p align="center">
   <a href="https://twitter.com/">
@@ -10,6 +10,7 @@ Hey, I'm Nermal
     <img src="https://img.shields.io/github/stars/nermalcat69/precedent?label=nermalcat69" alt="Precedent repo star count" />
   </a>
 </p>
+
 ### My Skills
   #### Frontend & Backend
   ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,tailwind,materialui,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma,webpack,gulp,postgres,mysql,mongodb,redis,kafka,dynamodb)
