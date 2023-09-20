@@ -2,8 +2,6 @@
 ## My Skills
   ### Frontend & Backend
   ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,tailwind,materialui,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma,webpack,gulp)
-  ### UI Libraries
-  ![My Skills](https://skillicons.dev/icons?i=)
   ### Tools for Development & Design
   ![My Skills](https://skillicons.dev/icons?i=supabase,aws,gcp,vercel,netlify,firebase,docker,heroku,visualstudio,webflow,postman,cloudflare,ae,xd,figma,pr,ps)
   ### Databases
