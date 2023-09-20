@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=materarc&label=Profile%20views&color=0e75b6&style=flat" alt="materarc" /> </p>
+
 ### My Skills
   #### Frontend & Backend
   ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,tailwind,materialui,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma,webpack,gulp,postgres,mysql,mongodb,redis,kafka,dynamodb)
