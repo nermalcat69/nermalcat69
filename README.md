@@ -1,13 +1,18 @@
 
 ## My Skills
-  ### Langs & Frameworks
-  ![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,react,tailwind,py,express,solidity,rust,electron,nodejs,md)
- 
-  ### Cloud and Database Technologies
-  ![My Skills](https://skillicons.dev/icons?i=supabase,aws,gcp,vercel,heroku)
+  ### Frontend & Backend
+  ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma)
+
+  ### UI Libraries
+  ![My Skills](https://skillicons.dev/icons?i=tailwind,materialui)
+  
+  ### Development Tools
+  ![My Skills](https://skillicons.dev/icons?i=supabase,aws,gcp,vercel,netlify,github,gitlab,git,firebase,docker,heroku,visualstudio,webflow,postman,cloudflare)
   ### Bundlers
   ![My Skills](https://skillicons.dev/icons?i=webpack,gulp)
-   ### Design Tools
+  ### Databases
+  ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,dynamodb)
+  ### Design Tools
   ![My Skills](https://skillicons.dev/icons?i=ae,xd,figma,pr,ps)
 
 
