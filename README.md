@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nermalcat69&label=Profile%20views&color=0e75b6&style=flat" alt="nermalcat69" /> </p>
 
-## Hey, I'm Nermal
-
 <p align="center"> <img src="https://media.giphy.com/media/tJqyalvo9ahykfykAj/giphy.gif" alt="Giphy Video" /> </p>
 
 
