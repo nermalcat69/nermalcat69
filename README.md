@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nermalcat69&label=Profile%20views&color=0e75b6&style=flat" alt="nermalcat69" /> </p>
 
+```Javascript
 👋 Hey, I'm Arjun Aditya
 - 🌐 Internet Alias: NermalCat69
 - 👨‍💻 MERN Stack Dev 🚀 
@@ -8,6 +9,7 @@
 - XAUUSD Trader 📈
 
 Let's code, build, and conquer! 🚀
+```
 
 --------------------------------------
 
