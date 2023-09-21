@@ -10,7 +10,7 @@
 
 Let's code, build, and conquer! 🚀
 ```
-**BTW, MOST OF MY REPOS ARE PRIVATE FOR NOW**
+<p>BTW, MOST OF MY REPOS ARE PRIVATE FOR NOW</p>
 --------------------------------------
 
 ## My Skills
