@@ -2,7 +2,8 @@
 
 ## Hey, I'm Nermal
 
-![Giphy Video](https://giphy.com/embed/rECebfan3v1NWlSuwE/video)
+<p align="center"> <img src="https://media.giphy.com/media/tJqyalvo9ahykfykAj/giphy.gif" alt="Giphy Video" /> </p>
+
 
 ## My Skills
 
