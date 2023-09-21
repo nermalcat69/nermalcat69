@@ -11,9 +11,6 @@ Let's code, build, and conquer! 🚀
 
 --------------------------------------
 
-<p align="center"> <img src="https://media.giphy.com/media/tJqyalvo9ahykfykAj/giphy.gif" alt="Giphy Video" /> </p>
-
-
 ## My Skills
 
   <h2>Frontend & Backend</h2>
