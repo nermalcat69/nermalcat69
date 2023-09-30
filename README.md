@@ -22,5 +22,8 @@ Let's code, build, and conquer! 🚀
   <h2>Tools for Development & Design</h2>
   
   ![My Skills](https://skillicons.dev/icons?i=supabase,aws,gcp,vercel,firebase,docker,heroku,visualstudio,webflow,postman,cloudflare,ae,xd,figma,pr,ps)
+
+
+  [![An image of @nermalcat69's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nermalcat69)](https://holopin.io/@nermalcat69)
   
 ---------------
