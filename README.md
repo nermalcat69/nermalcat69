@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nermalcat69&label=Profile%20views&color=0e75b6&style=flat" alt="nermalcat69" /> </p>
+<img src="https://komarev.com/ghpvc/?username=nermalcat69&label=Profile%20views&color=0e75b6&style=flat" alt="nermalcat69" /> ![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Age](https://img.shields.io/badge/9_July_2006-17-00a602)
 
 ```Javascript
 👋 Hey, I'm Arjun Aditya
@@ -10,23 +10,5 @@
 
 Let's code, build, and conquer! 🚀
 ```
-![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Age](https://img.shields.io/badge/9_July_2006-17-00a602)
 
-
-
-<p>BTW, MOST OF MY REPOS ARE PRIVATE FOR NOW</p>
---------------------------------------
-
-## My Skills
-
-  <h2>Frontend & Backend</h2>
-  
-  ![My Skills](https://skillicons.dev/icons?i=pug,js,react,nextjs,astro,ts,css,tailwind,materialui,py,express,solidity,rust,electron,nodejs,md,sass,graphql,deno,alpinejs,vite,prisma,webpack,gulp,postgres,mysql,mongodb,redis,kafka,dynamodb)
-
-  <h2>Tools for Development & Design</h2>
-  
-  ![My Skills](https://skillicons.dev/icons?i=supabase,aws,gcp,vercel,firebase,docker,heroku,visualstudio,webflow,postman,cloudflare,ae,xd,figma,pr,ps,vim,linux)
-
-
-  
----------------
+[![@nermalcat69 Astro contributions](https://astro.badg.es/v2/contributor/nermalcat69.svg)](https://astro.badg.es/contributor/nermalcat69/)
