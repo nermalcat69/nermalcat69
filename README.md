@@ -10,6 +10,9 @@
 
 Let's code, build, and conquer! 🚀
 ```
+![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Age](https://img.shields.io/badge/9_July_2006-17-00a602)
+
+
 
 <p>BTW, MOST OF MY REPOS ARE PRIVATE FOR NOW</p>
 --------------------------------------
