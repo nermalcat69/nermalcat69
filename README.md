@@ -12,3 +12,11 @@ Let's code, build, and conquer! 🚀
 ```
 
 [![@nermalcat69 Astro contributions](https://astro.badg.es/v2/contributor/nermalcat69.svg)](https://astro.badg.es/contributor/nermalcat69/)
+
+
+
+<!---
+
+https://sr.ht/~nermalcat69/
+
+--->
