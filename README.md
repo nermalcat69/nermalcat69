@@ -8,8 +8,8 @@
 - Open Source Enthusiast 🌟 
 - XAUUSD Trader 📈
 
-eth: 
-sol: 0xb4F5429b5A25c3959fD1e5967d82c129B828A7a6
+eth: 0xb4F5429b5A25c3959fD1e5967d82c129B828A7a6
+sol: 
 
 Let's code, build, and conquer! 🚀
 ```
