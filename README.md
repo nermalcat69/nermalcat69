@@ -8,6 +8,9 @@
 - Open Source Enthusiast 🌟 
 - XAUUSD Trader 📈
 
+eth:
+sol:
+
 Let's code, build, and conquer! 🚀
 ```
 
