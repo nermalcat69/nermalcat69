@@ -1,4 +1,4 @@
-![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Age](https://img.shields.io/badge/9_July_2006-17-00a602) <img src="https://komarev.com/ghpvc/?username=nermalcat69&label=Profile%20umm&color=0e75b6&style=flat" alt="nermalcat69" />
+![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Age](https://img.shields.io/badge/9_July_2006-17-00a602) 
 
 ```Javascript
 👋 Hey, I'm Arjun Aditya
