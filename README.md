@@ -14,8 +14,7 @@ sol:
 Let's code, build, and conquer! 🚀
 ```
 
-[![@nermalcat69 Astro contributions](https://astro.badg.es/v2/contributor/nermalcat69.svg)](https://astro.badg.es/contributor/nermalcat69/)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nermalcat69&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Mon)](https://git.io/streak-stats)
 
 
 <!---
