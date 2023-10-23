@@ -13,11 +13,11 @@ sol:
 
 Let's code, build, and conquer! 🚀
 ```
+  
+<img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nermalcat69&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
-
 https://sr.ht/~nermalcat69/
 
 --->
