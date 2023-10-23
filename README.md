@@ -14,8 +14,7 @@ sol:
 Let's code, build, and conquer! 🚀
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nermalcat69&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Mon)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nermalcat69&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 
