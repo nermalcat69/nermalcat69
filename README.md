@@ -17,7 +17,6 @@ sol:
 Let's code, build, and conquer! 🚀
 ```
   
-<img width="370" align="left" src="https://64.media.tumblr.com/8833ac82b24ac0f4a7d6593e84032520/tumblr_mh4l01S6aS1qi8xj6o1_500.gifv"  />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/989106479699210310)](https://discord.gg/EzRbKcAq6m)
 
