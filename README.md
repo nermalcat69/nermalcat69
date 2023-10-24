@@ -1,6 +1,5 @@
 ![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/9_July_2006-c70000) 
 
-![alt text](public/hero.png)
 
 ```Javascript
 👋 Hey, I'm Arjun Aditya
