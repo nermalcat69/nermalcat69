@@ -4,7 +4,6 @@
 
 
 ```Javascript
-👋 Hey, I'm Arjun Aditya
 - 🌐 Internet Alias: NermalCat69 (Nermal)
 - 👨‍💻 MERN Stack Dev  
 - 🎨 Frontend Enthusiast  
