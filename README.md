@@ -1,5 +1,4 @@
-![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/9_July_2006-c70000) 
-[![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21805%26project%3D%26in%3D0)](https://codetime.dev)
+![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/9_July_2006-c70000)  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21805%26project%3D%26in%3D0">
 
 ![nermalcat69](public/nermalcat69.png)
 
