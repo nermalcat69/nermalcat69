@@ -21,6 +21,8 @@ Let's code, build, and conquer! 🚀
 /_/ |_/ \___//_/   /_/ /_/ /_/ \__,_//_/ \___/ \__,_/ \__/ \____//____/
 ```
 
+[![nermalcat69's GitHub | Stats](https://stats.quine.sh/nermalcat69/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nermalcat69)
+
 
 <!---
 https://sr.ht/~nermalcat69/
