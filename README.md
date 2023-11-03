@@ -10,9 +10,9 @@ Typescript
 Frontend: React, Next.js, Astro, Svelte and Nuxt (Next.js and Astro is my fav)
 Backend: Node.js, Express, Redis Database
 
-- Learning: C, Rust, Golang, Java, Swift, Django
-- Tools / Technologies: VsCode, Visual Studio, Xcode, Brackets,
-Mongodb, Upstash, Supabase, DigitalOcean  Vercel, Tunnel,
+- Learning: C, Rust, Golang, Java, Swift, Python and Django
+- Tools / Technologies: VsCode, Visual Studio, Xcode, GoLand, Brackets,
+Mongodb, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS, Firebase
 
 eth: New: 0x3935C4F18bd60465bF178810B565910bA9E74137 | Old: 0xb4F5429b5A25c3959fD1e5967d82c129B828A7a6
 sol: 
