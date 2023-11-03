@@ -5,8 +5,12 @@
 
 
 ```Javascript
-- My Skills: Javascript, Typescript, Tailwind
-- Learning: C, Rust, Golang, Java, Swift
+- My Stack
+Typescript
+Frontend: React, Next.js, Astro, Svelte and Nuxt (Next.js and Astro is my fav)
+Backend: Node.js, Express, Redis Database
+
+- Learning: C, Rust, Golang, Java, Swift, Django
 - Tools / Technologies: VsCode, Visual Studio, Xcode, Brackets,
 Mongodb, Upstash, Supabase, DigitalOcean  Vercel, Tunnel,
 
