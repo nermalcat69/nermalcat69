@@ -7,7 +7,8 @@
 ```Javascript
 - My Stack
 Typescript
-Frontend: React, Next.js, Astro, Svelte and Nuxt (Next.js and Astro is my fav)
+Frontend: React, Next.js, Astro, Svelte and Nuxt
+Frontend Preference: Next.js and Astro
 Backend: Node.js, Express, Redis Database
 
 - Learning: C, Rust, Golang, Java, Swift, Python and Django
