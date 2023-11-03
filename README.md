@@ -5,7 +5,9 @@
 
 
 ```Javascript
-- 🌐 Internet Alias: NermalCat69 (Nermal)
+- My Skills: Javascript, Typescript, Tailwind
+- Learning: C, Rust, Golang, Java
+
 
 eth: New: 0x3935C4F18bd60465bF178810B565910bA9E74137 | Old: 0xb4F5429b5A25c3959fD1e5967d82c129B828A7a6
 sol: 
