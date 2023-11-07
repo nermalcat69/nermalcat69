@@ -11,7 +11,7 @@ Frontend: React, Next.js, Astro, Svelte, Remix and Nuxt
 Frontend Preference: Next.js, Remix and Astro
 Backend: Node.js, Express, Redis Database
 
-- Learning: D3js, C, Rust, Golang, Java, Swift and Django
+- Learning: Threejs, D3js, C, Rust, Golang, Java, Swift and Django
 - Tools / Technologies: VsCode, Visual Studio, Xcode, GoLand, Brackets,
 Mongodb, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS, Firebase
 
