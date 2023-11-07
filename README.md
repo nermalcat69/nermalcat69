@@ -5,11 +5,14 @@
 
 
 ```Javascript
-- My Stack
+- My Skills / Stack
 Typescript
 Frontend: React, Next.js, Astro, Svelte, Remix and Nuxt
 Frontend Preference: Next.js, Remix and Astro
 Backend: Node.js, Express, Redis Database
+
+- Other Skills
+Templating Langs: html, htmx, Pug, handlebars.js (react for templating ? no wtf)
 
 - Learning: Threejs, D3js, C, Rust, Golang, Java, Swift and Django
 - Tools / Technologies: VsCode, Visual Studio, Xcode, GoLand, Brackets,
