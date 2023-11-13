@@ -23,7 +23,7 @@ sol:
 
 Let's code, build, and conquer! 🚀
 ```
-  
+  <!---
 ```Javascript
     _   __                               __              __   _____ ____ 
    / | / /___   _____ ____ ___   ____ _ / /_____ ____ _ / /_ / ___// __ \
@@ -35,7 +35,7 @@ Let's code, build, and conquer! 🚀
 [![nermalcat69's GitHub | Stats](https://stats.quine.sh/nermalcat69/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nermalcat69)
 
 
-<!---
+
 https://sr.ht/~nermalcat69/
 &apos;
 --->
