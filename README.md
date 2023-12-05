@@ -8,7 +8,7 @@
 - My Skills / Stack
 Typescript
 Frontend: React, Next.js, Astro, Svelte, Remix and Nuxt
-Frontend Preference: Next.js, Remix and Astro
+Frontend Preference: Next.js, Svelte, Remix and Astro
 Backend: Node.js, Express, Redis Database
 
 - Other Skills
