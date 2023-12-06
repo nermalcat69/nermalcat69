@@ -22,6 +22,11 @@ eth: New: 0x3935C4F18bd60465bF178810B565910bA9E74137 | Old: 0xb4F5429b5A25c3959f
 sol: 
 
 ```
+
+[![nermalcat69's GitHub | Languages Over Time](https://stats.quine.sh/nermalcat69/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nermalcat69)
+
+
+
   <!---
 ```Javascript
     _   __                               __              __   _____ ____ 
