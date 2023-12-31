@@ -15,17 +15,13 @@ Backend: Node.js, Express, Redis Database
 Templating Langs: html, htmx, Pug, handlebars.js (react for templating ? no wtf)
 
 - Learning: Threejs, D3js, C, Rust, Golang, Java, Swift and Django
-- Tools / Technologies: VsCode, Visual Studio, Xcode, GoLand, Brackets,
+- Tools / Technologies: VsCode, Visual Studio, Xcode, RustRover, Storybook, Brackets,
 Mongodb, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS, Firebase
 
 eth: New: 0x3935C4F18bd60465bF178810B565910bA9E74137 | Old: 0xb4F5429b5A25c3959fD1e5967d82c129B828A7a6
 sol: 
 
 ```
-
-[![nermalcat69's GitHub | Languages Over Time](https://stats.quine.sh/nermalcat69/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nermalcat69)
-
-
 
   <!---
 ```Javascript
