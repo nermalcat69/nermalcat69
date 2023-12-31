@@ -3,6 +3,10 @@
 
 ![nermalcat69](public/nermalcat69.png) 
 
+- Check out my website to learn more about me.
+- Explore my blog where I share insights and learnings.
+- Stay updated with my journey on Instagram and Twitter.
+- Explore my VS Code Configuration for development optimization.
 
 ```Javascript
 - My Skills / Stack
