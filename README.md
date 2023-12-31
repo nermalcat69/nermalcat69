@@ -40,7 +40,7 @@ https://sr.ht/~nermalcat69/
 &apos;
 --->
 
-📫 Contact
+## 📫 Contact
 
 For a quick response, DM me on Instagram.
 
