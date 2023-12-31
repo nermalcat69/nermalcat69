@@ -5,8 +5,8 @@
 
 - Check out my website to learn more about me.
 - Explore my blog where I share insights and learnings.
-- Stay updated with my journey on Instagram and Twitter.
-- Explore my VS Code Configuration for development optimization.
+- Stay updated with my journey on [Instagram](https://instagram.com/nermalcat69) and [Twitter](https://twitter.com/nermalcat69).
+- Explore my [VS Code Configuration](https://github.com/nermalcat69/vsc-config) for development optimization.
 
 ```Javascript
 - My Skills / Stack
