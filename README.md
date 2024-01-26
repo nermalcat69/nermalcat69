@@ -45,6 +45,7 @@ https://sr.ht/~nermalcat69/
 
 ## 📫 Contact
 
-For a quick response, DM me on Instagram.
+For a quick response, DM me on [Instagram](https://instagram.com/nermalcat69) or [nermalcat69(discord)](https://discord.com/users/989106479699210310).
+
 
 For professional inquiries, reach out via email at nermal@skiff.com
