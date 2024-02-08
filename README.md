@@ -1,4 +1,4 @@
-![status](https://img.shields.io/badge/Status-Sleep_Deprieved-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/9_July_2006-c70000) <a href="https://wakatime.com/@018b8590-08c5-49e9-bd7c-f3a0dcac0016"><img src="https://wakatime.com/badge/user/018b8590-08c5-49e9-bd7c-f3a0dcac0016.svg" alt="Total time coded since Oct 31 2023" /></a>
+![status](https://img.shields.io/badge/Status-Cooking_Fish-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/9_July_2006-c70000) <a href="https://wakatime.com/@018b8590-08c5-49e9-bd7c-f3a0dcac0016"><img src="https://wakatime.com/badge/user/018b8590-08c5-49e9-bd7c-f3a0dcac0016.svg" alt="Total time coded since Oct 31 2023" /></a>
 
 
 ![nermalcat69](public/nermalcat69.png) 
