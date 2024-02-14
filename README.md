@@ -48,4 +48,4 @@ https://sr.ht/~nermalcat69/
 For a quick response, DM me on [Twitter](https://twitter.com/nermalcat69) [Instagram](https://instagram.com/nermalcat69) or [nermalcat69(discord)](https://discord.com/users/989106479699210310).
 
 
-For professional inquiries, reach out via email at nermal@skiff.com
+For professional inquiries, reach out via email at meow@nermalcat69.dev
