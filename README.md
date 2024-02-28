@@ -1,4 +1,8 @@
 <p align="center">
+ meow@nermalcat69.dev
+</p>
+
+<p align="center">
   <samp>
     <a href="https://arjunaditya.xyz">me</a> /
     <a href="https://nermalcat69.dev">projects</a> /
@@ -7,12 +11,5 @@
     <a href="https://instagram.com/nermalcat69">instagram</a> /
     <a href="https://unsplash.com/@arjunaditya">unsplash</a> /
     <a href="https://github.com/sponsors/nermalcat69">sponsor</a> /
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
-    <a>meow@nermalcat69.dev(programming related)</a> /
-    <a>hey@arjunaditya.xyz(professional enquiries)</a>
   </samp>
 </p>
