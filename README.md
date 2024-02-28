@@ -1,5 +1,5 @@
 <p align="center">
- meow@nermalcat69.dev
+ <b>meow@nermalcat69.dev</b>(programming) / <b>hey@arjunaditya.xyz</b>(professional)
 </p>
 
 <p align="center">
