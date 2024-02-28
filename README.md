@@ -1,53 +1,18 @@
-![status](https://img.shields.io/badge/Status-Listening_To_Radiohead-c70000) ![pronouns](https://img.shields.io/badge/Pronouns-He/Him-8A2BE2) ![Operating Systems](https://img.shields.io/badge/OS-macOS_Windows_Linux-253469) ![Age](https://img.shields.io/badge/9_July_2006-c70000) <a href="https://wakatime.com/@018b8590-08c5-49e9-bd7c-f3a0dcac0016"><img src="https://wakatime.com/badge/user/018b8590-08c5-49e9-bd7c-f3a0dcac0016.svg" alt="Total time coded since Oct 31 2023" /></a>
+<p align="center">
+  <samp>
+    <a href="https://arjunaditya.xyz">me</a> /
+    <a href="https://nermalcat69.dev">projects</a> /
+    <a href="https://twitter.com/nermalcat69">twitter</a> /
+    <a href="https://discord.gg/v537TbpZTc">discord</a> /
+    <a href="https://instagram.com/nermalcat69">instagram</a> /
+    <a href="https://unsplash.com/@arjunaditya">unsplash</a> /
+    <a href="https://github.com/sponsors/nermalcat69">sponsor</a> /
+  </samp>
+</p>
 
-
-![arjunnnn](https://github.com/nermalcat69/nermalcat69/assets/73933669/a29fd048-97fb-4cbc-87a6-0fc2e57f779d)
-
-
-
-- Check out my [website](https://arjunaditya.vercel.app) to learn more about me.
-- Stay updated with my journey on [Instagram](https://instagram.com/nermalcat69) and [Twitter](https://twitter.com/nermalcat69).
-- Explore my [VS Code Configuration](https://github.com/nermalcat69/vsc-config) for development optimization.
-
-```Javascript
-- My Skills / Stack
-Typescript
-Frontend: React, Next.js, Astro, Svelte, Remix and Nuxt
-Frontend Preference: Next.js, Svelte, Remix and Astro
-Backend: Node.js, Express, Redis Database
-
-- Other Skills
-Templating Langs: html, htmx, Pug, handlebars.js (react for templating ? no wtf)
-
-- Learning: Threejs, D3js, C, Rust, Golang, Java, Swift and Django
-- Tools / Technologies: Planetscale, Storybook, Brackets,
-Mongodb Atlas, Upstash, Supabase, DigitalOcean, Vercel, Tunnel, AWS and Firebase
-
-eth: New: 0x3935C4F18bd60465bF178810B565910bA9E74137 | Old: 0xb4F5429b5A25c3959fD1e5967d82c129B828A7a6
-sol: AX6o3xoofuqAo6QD5ki548KhTrJ7RC7ksc63ju4qnKhF
-
-```
-
-  <!---
-```Javascript
-    _   __                               __              __   _____ ____ 
-   / | / /___   _____ ____ ___   ____ _ / /_____ ____ _ / /_ / ___// __ \
-  /  |/ // _ \ / ___// __ `__ \ / __ `// // ___// __ `// __// __ \/ /_/ /
- / /|  //  __// /   / / / / / // /_/ // // /__ / /_/ // /_ / /_/ /\__, / 
-/_/ |_/ \___//_/   /_/ /_/ /_/ \__,_//_/ \___/ \__,_/ \__/ \____//____/
-```
-
-[![nermalcat69's GitHub | Stats](https://stats.quine.sh/nermalcat69/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nermalcat69)
-
-
-- Explore my blog where I share insights and learnings.
-https://sr.ht/~nermalcat69/
-&apos;
---->
-
-## 🌿 Contact
-
-For a quick response, DM me on [Twitter](https://twitter.com/nermalcat69) [Instagram](https://instagram.com/nermalcat69) or [nermalcat69(discord)](https://discord.com/users/989106479699210310).
-
-
-For professional inquiries, reach out via email at meow@nermalcat69.dev
+<p align="center">
+  <samp>
+    <a>meow@nermalcat69.dev(programming related)</a> /
+    <a>hey@arjunaditya.xyz(professional enquiries)</a>
+  </samp>
+</p>
