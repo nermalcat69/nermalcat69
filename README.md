@@ -1,7 +1,6 @@
 <p align="center">
  <b>meow@nermalcat69.dev</b>(programming) / <b>hey@arjunaditya.xyz</b>(professional)
 </p>
-
 <p align="center">
   <samp>
     <a href="https://arjunaditya.xyz">me</a> /
