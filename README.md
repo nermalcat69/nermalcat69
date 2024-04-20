@@ -1,8 +1,9 @@
 
 ![githubheader](https://github.com/nermalcat69/nermalcat69/assets/73933669/6b392c58-1143-428d-a383-240c9d5c21eb)
 
+<p align="center">🌿 Alive since 2006, programmer since 2018</p>
 <p align="center">
- <b>meow@nermalcat69.dev</b>(programming) / <b>hey@arjunaditya.xyz</b>(professional)
+<b>meow@nermalcat69.dev</b>(programming) / <b>hey@arjunaditya.xyz</b>(professional)
 </p>
 <p align="center">
   <samp>
