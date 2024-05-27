@@ -1,4 +1,4 @@
-### 🌈 Nameste!!
+### 🌈 Namaste!!
 
 Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm a 17-year-old programmer, started coding at a young age. I love cats (though I don't hate dogs) and enjoy building and doing pull-ups.
 
