@@ -1,36 +1,14 @@
-### 🌈 Nermalism
-♂ He/Him - 
+### 🌈 Hewoo!!
 
 Hey i'm Arjun Aditya also known by my internet alias nermal or nermalcat69
 
--
--
+### 🥪 Programming & Tools
 
-### 🍭 My Story
--
--
--
+Primarly I work with Typescript, Golang, Php, Ruby, Bash, C and Elixir but still exploring Rust at the moment.
 
-### 🏡 Moving Forward & My Vision 
--
--
--
-
-### 🌱 What Am I Learning
-- 
-- 
-
-### 🥪 Tech Stack & Tools
-
-too tired to mention everything at the moment
-
-|  Tools           |                 Usage                                                                          |
-| :------------------- | :----------------------------------------------------------------------------------------------- |
-| `zcli login <token>` | Command to login to your zerops account using your [token](https://app.zerops.io/settings/token-management). |
-| `zcli push`          | Command to push your codebase to a service (you need to have zerops.yml in your root directory).                   |
+For Deployments I stick with [Zerops](https://zerops.io), [Cloudflare Pages](https://pages.cloudflare.com) and [SST](https://sst.dev/).
 
 For design i use figma and for conversion i use cloud convert and for reducing the size of an image i use [simple image resizer](https://simpleimageresizer.com) and converting the web compatible image format webp.
-
 
 ### 🍒 Get in Touch
   - <samp>
@@ -62,3 +40,4 @@ For design i use figma and for conversion i use cloud convert and for reducing t
 - Editing Videos using Fcpx, Wordpress, Ghost.org Themes
 - Sold websites on Flippa
 - Wrote Blogs using Ghost.org Cms (Spent too much time on seo and everything works on search engines in depth)
+- Solana & Ethereum Smart Contracts
