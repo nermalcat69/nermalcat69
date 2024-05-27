@@ -28,13 +28,11 @@ For design i use figma and for conversion i use cloud convert and for reducing t
     <a target="_blank" href="https://discord.gg/96FJqu8aPK">Discord Server</a>
   </samp>
 
-
 ### 🎉 Fun Facts
 
 - A random discord friend started religion called nermalism (too complicated to explain).
 - My Journey in programming technically started at age 10 with c sharp in unity (I thought we were supposed to make our own games and play them :/ so i used to look for tutorials on how to make a game like minecraft considering i had no idea i could've played it for free using some client ~ other than that i didnt have the time to build my own minecraft lol)
 
-
 ### 💿 Stuff I've done so far
 
-I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I've written blogs on Ghost.org, where I've dedicated a lot of time to ensuring they rank well on search engines. I've also developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects.
+I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I used to write blogs on a website hosted on Ghost.org, which helped me gain a lot of insights about seo. Developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects.
