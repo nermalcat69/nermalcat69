@@ -20,11 +20,6 @@ Hey i'm Arjun Aditya also known by my internet alias nermal or nermalcat69
 - 
 - 
 
-### 🥪 Design Tools 
-- Figma
-- 
-
-
 ### 🥪 Tech Stack & Tools
 
 too tired to mention everything at the moment
