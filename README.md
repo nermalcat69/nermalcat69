@@ -10,7 +10,7 @@ For Deployments I stick with [Zerops](https://zerops.io), [Cloudflare Pages](htt
 
 For design, I use Figma, for conversion file version, I use [CloudConvert](https://cloudconvert.com) to convert png/jpg to webp to reduce the size of an image, I utilize [Simple Image Resizer](https://simpleimageresizer.com) resizing the image size(why tf are people using jpg and png everywhere on their site 😭).
 
-I used to use [Skiff](https://skiff.io) for managing my work life, but now it's gone.
+I used to use [Skiff](https://skiff.com) for managing my work life, but now it's gone.
 
 ### 🍒 Get in Touch
   - <samp>
@@ -32,8 +32,8 @@ I used to use [Skiff](https://skiff.io) for managing my work life, but now it's 
 
 ### 🎉 Fun Facts
 
-- A random discord friend started religion called nermalism (too complicated to explain).
-- My Journey in programming technically started at age 10 with c sharp in unity (I thought we were supposed to make our own games and play them :/ so i used to look for tutorials on how to make a game like minecraft considering i had no idea i could've played it for free using some client ~ other than that i didnt have the time to build my own minecraft lol)
+- A random discord friend started a religion called nermalism (too complicated to explain).
+- My journey in programming technically started at age 10 with C# in Unity. (I thought we were supposed to make our own games and play them :/ so I used to look for tutorials on how to make a game like Minecraft, considering I had no idea I could've played it for free using some client.) Other than that, I didn't have the time to build my own Minecraft, lol.
 
 ### 💿 Stuff I've done so far
 
