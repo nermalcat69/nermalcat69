@@ -8,7 +8,9 @@ Primarly I work with Typescript, Golang, Php, Ruby, Bash, C and Elixir but still
 
 For Deployments I stick with [Zerops](https://zerops.io), [Cloudflare Pages](https://pages.cloudflare.com) and [SST](https://sst.dev/).
 
-For design i use figma and for conversion i use cloud convert and for reducing the size of an image i use [simple image resizer](https://simpleimageresizer.com) and converting the web compatible image format webp.
+For design, I use Figma, for conversion file version, I use [CloudConvert](https://cloudconvert.com) to convert png/jpg to webp to reduce the size of an image, I utilize [Simple Image Resizer](https://simpleimageresizer.com) resizing the image size(why tf are people using jpg and png everywhere on their site 😭).
+
+I used to use [Skiff](https://skiff.io) for managing my work life, but now it's gone.
 
 ### 🍒 Get in Touch
   - <samp>
