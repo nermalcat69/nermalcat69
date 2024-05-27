@@ -1,4 +1,4 @@
-### 🌈 Namaste!!
+### 🙏 Namaste!!
 
 Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm a 17-year-old programmer, started coding at a young age. I love cats (though I don't hate dogs) and enjoy building and doing pull-ups.
 
@@ -36,3 +36,5 @@ For design i use figma and for conversion i use cloud convert and for reducing t
 ### 💿 Stuff I've done so far
 
 I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I used to write blogs on a website hosted on Ghost.org, which helped me gain a lot of insights about seo. Developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects.
+
+🌈 Stay hydrated :D
