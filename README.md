@@ -1,10 +1,10 @@
-### 🌈 Hewoo!!
+### 🌈 Nameste!!
 
-Hey i'm Arjun Aditya also known by my internet alias nermal or nermalcat69
+Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm a 17-year-old programmer, started coding at a young age. I love cats (though I don't hate dogs) and enjoy building and doing pull-ups.
 
 ### 🥪 Programming & Tools
 
-Primarly I work with Typescript, Golang, Php, Ruby, Bash, C and Elixir but still exploring Rust at the moment.
+Primarly I work with Typescript, Golang, Php, Ruby, Bash, C and Elixir but still exploring Rust at the moment. Other than that i work with a lot of frameworks and libraries for different usecases at the moment.
 
 For Deployments I stick with [Zerops](https://zerops.io), [Cloudflare Pages](https://pages.cloudflare.com) and [SST](https://sst.dev/).
 
@@ -37,7 +37,4 @@ For design i use figma and for conversion i use cloud convert and for reducing t
 
 ### 💿 Stuff I've done so far
 
-- Editing Videos using Fcpx, Wordpress, Ghost.org Themes
-- Sold websites on Flippa
-- Wrote Blogs using Ghost.org Cms (Spent too much time on seo and everything works on search engines in depth)
-- Solana & Ethereum Smart Contracts
+I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I've written blogs on Ghost.org, where I've dedicated a lot of time to ensuring they rank well on search engines. I've also developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects.
