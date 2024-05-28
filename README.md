@@ -4,7 +4,7 @@ Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm 
 
 ### 🥪 Programming & Tools
 
-Primarly I work with Typescript, Golang, Php, Ruby, Bash, C and Elixir but still exploring Rust at the moment. Other than that i work with a lot of frameworks and libraries for different usecases at the moment.
+Primarily, I work with TypeScript, Golang, PHP, Ruby, Bash, C, and Elixir, I am also exploring Rust at the moment. Additionally, I work with many frameworks and libraries for different use cases.
 
 For Deployments I stick with [Zerops](https://zerops.io), [Cloudflare Pages](https://pages.cloudflare.com) and [SST](https://sst.dev/).
 
