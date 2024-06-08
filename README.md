@@ -20,7 +20,6 @@ I used to use [Skiff](https://skiff.com) for managing my work life, but now it's
     <a target="_blank" href="https://unsplash.com/@arjunaditya">Unsplash</a>
   </samp>
 
-##### Wanna have a talk?
 - Related to programming: meow@nermalcat69.dev
 - Other inquiry: hey@arjunaditya.xyz
 - <samp>
@@ -40,3 +39,5 @@ I used to use [Skiff](https://skiff.com) for managing my work life, but now it's
 I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I used to write blogs on a website hosted on Ghost.org, which helped me gain a lot of insights about seo. Developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects.
 
 🌈 Stay hydrated :D
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/989106479699210310)](https://discord.com/users/989106479699210310)
