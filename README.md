@@ -40,4 +40,4 @@ I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and cr
 
 🌈 Stay hydrated :D
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/989106479699210310)](https://discord.com/users/989106479699210310)
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/989106479699210310)](https://discord.com/users/989106479699210310) -->
