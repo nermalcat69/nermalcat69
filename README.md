@@ -1,10 +1,12 @@
 ### 🙏 Namaste!!
 
-Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm a 17-year-old programmer, started coding at a young age. I love cats (though I don't hate dogs) and enjoy building and doing pull-ups.
+Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm a 17-year-old programmer, started coding at a young age. I love cats (though I don't hate dogs) and enjoy building and doing pull-ups. 
+
+My journey in programming technically started at age 10 with C# in Unity. (I thought we were supposed to make our own games and play them :/ so I used to look for tutorials on how to make a game like Minecraft, considering I had no idea I could've played it for free using some client.) Other than that, I didn't have the time to build my own Minecraft, lol.
 
 ### 🥪 Programming & Tools
 
-Primarily, I work with TypeScript, Golang, PHP, Ruby, Bash, C, and Elixir, I am also exploring Rust at the moment. Additionally, I work with many frameworks and libraries for different use cases.
+Primarily, I work with TypeScript, Golang, PHP, Ruby, Bash, C, and Elixir, I am also exploring Rust at the moment. Additionally, I work with many frameworks and libraries for different use cases. 
 
 For Deployments I stick with [Zerops](https://zerops.io), [Cloudflare Pages](https://pages.cloudflare.com) and [SST](https://sst.dev/).
 
@@ -29,10 +31,7 @@ I used to use [Skiff](https://skiff.com) for managing my work life, but now it's
     <a target="_blank" href="https://discord.gg/96FJqu8aPK">Discord Server</a>
   </samp>
 
-### 🎉 Fun Facts
 
-- A random discord friend started a religion called nermalism (too complicated to explain).
-- My journey in programming technically started at age 10 with C# in Unity. (I thought we were supposed to make our own games and play them :/ so I used to look for tutorials on how to make a game like Minecraft, considering I had no idea I could've played it for free using some client.) Other than that, I didn't have the time to build my own Minecraft, lol.
 
 ### 💿 Stuff I've done so far
 
