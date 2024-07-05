@@ -4,7 +4,7 @@ Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm 
 
 My journey in programming technically started at age 10 with C# in Unity. (I thought we were supposed to make our own games and play them :/ so I used to look for tutorials on how to make a game like Minecraft, considering I had no idea I could've played it for free using some client.) Other than that, I didn't have the time to build my own Minecraft, lol.
 
-### 🥪 Programming & Tools
+<!-- ### 🥪 Programming & Tools
 
 Primarily, I work with TypeScript, Golang, PHP, Ruby, Bash, C, and Elixir, I am also exploring Rust at the moment. Additionally, I work with many frameworks and libraries for different use cases. 
 
@@ -35,8 +35,8 @@ I used to use [Skiff](https://skiff.com) for managing my work life, but now it's
 
 ### 💿 Stuff I've done so far
 
-I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I used to write blogs on a website hosted on Ghost.org, which helped me gain a lot of insights about seo. Developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects.
+I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I used to write blogs on a website hosted on Ghost.org, which helped me gain a lot of insights about seo. Developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects. -->
 
 🌈 Stay hydrated :D
 
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/989106479699210310)](https://discord.com/users/989106479699210310) -->
+ [![Discord Presence](https://lanyard.cnrad.dev/api/989106479699210310)](https://discord.com/users/989106479699210310) -->
