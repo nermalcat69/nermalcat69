@@ -4,7 +4,7 @@
 
 <a href="https://zerops.io" target="_blank" rel="dofollow" >
 
-![zerops](public/zerops.svg)
+![zerops](public/button.svg)
 
 </a>
 
