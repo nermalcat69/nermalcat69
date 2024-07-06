@@ -1,8 +1,50 @@
-### 🙏 Namaste!!
+[![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nermalcat69)
+
+[![@nermalcat69 Astro contributions](https://astro.badg.es/v2/contributor/nermalcat69.svg)](https://astro.badg.es/contributor/nermalcat69/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+OH MY YOU FOUND THIS
+
 
 Hey, I'm Arjun Aditya, also known as Nermal or NermalCat69 on the internet. I'm a 17-year-old programmer, started coding at a young age. I love cats (though I don't hate dogs) and enjoy building and doing pull-ups. 
 
-My journey in programming technically started at age 10 with C# in Unity. (I thought we were supposed to make our own games and play them :/ so I used to look for tutorials on how to make a game like Minecraft, considering I had no idea I could've played it for free using some client.) Other than that, I didn't have the time to build my own Minecraft, lol.
+My journey in programming technically started at age 10 with C# in Unity. (I thought we were supposed to make our own games and play them :/ so I used to look for tutorials on how to make a game like Minecraft, considering I had no idea I could've played it for free using some client.) Other than that, I didn't have the time to build my own Minecraft, lol. -->
 
 <!-- ### 🥪 Programming & Tools
 
@@ -36,7 +78,5 @@ I used to use [Skiff](https://skiff.com) for managing my work life, but now it's
 ### 💿 Stuff I've done so far
 
 I've done a bunch of cool stuff. I've edited videos using Final Cut Pro X and created WordPress themes (for personal use), as well as Ghost.org themes (also for personal use). Sold websites on Flippa. Additionally, I used to write blogs on a website hosted on Ghost.org, which helped me gain a lot of insights about seo. Developed smart contracts on Solana and Ethereum, and built Discord bots using Typescript, among other cool projects. -->
-
-🌈 Stay hydrated :D
 
  <!--  [![Discord Presence](https://lanyard.cnrad.dev/api/989106479699210310)](https://discord.com/users/989106479699210310) -->
