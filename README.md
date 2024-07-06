@@ -6,7 +6,7 @@
 
 <!-- Discord link maybe -->
 
-<img alt="gif of rick" src="public/rickyy.gif" />
+<img width="40px" alt="gif of rick" src="public/rickyy.gif" />
 
 
 
