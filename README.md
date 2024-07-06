@@ -11,10 +11,9 @@
 
 </a>
 
-<!-- Discord link maybe -->
-
+<!--
 <img width="40px" alt="gif of rick" src="public/rickyy.gif" />
-
+ -->
 
 
 
