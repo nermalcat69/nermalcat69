@@ -3,6 +3,12 @@
 [![@nermalcat69 Astro contributions](https://astro.badg.es/v2/contributor/nermalcat69.svg)](https://astro.badg.es/contributor/nermalcat69/)
 
 
+[![button1](public/button.svg)](https://zerops.io/)
+[![button2](public/button2.svg)](https://zerops.io/)
+[![button3](public/button3.svg)](https://zerops.io/)
+
+<!-- Discord link maybe -->
+
 
 
 
