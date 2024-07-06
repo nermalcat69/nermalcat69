@@ -6,6 +6,7 @@
 [![button1](public/button.svg)](https://zerops.io/)
 [![button2](public/button2.svg)](https://zerops.io/)
 [![button3](public/button3.svg)](https://zerops.io/)
+[![button3](public/button4.svg)](https://zerops.io/)
 
 <!-- Discord link maybe -->
 
