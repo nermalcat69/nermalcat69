@@ -8,15 +8,21 @@
 
 </a>
 
+<a href="https://discord.gg/mz3WjBabDb" target="_blank">
+
+![Discord server of 69x Devs](https://img.shields.io/badge/69x_Devs-Discord_Server-blue)
+
+</a>
+
+<a href="https://discord.gg/xxzmJSDKPT" target="_blank">
+
+![Discord server of 69x Devs](https://img.shields.io/badge/Zerops-Discord_Server-blue)
+
+</a>
+
 <!-- Discord link maybe -->
 
 <img width="40px" alt="gif of rick" src="public/rickyy.gif" />
-
-
-
-
-
-
 
 
 
