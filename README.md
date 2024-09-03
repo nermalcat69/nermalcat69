@@ -1,9 +1,6 @@
 [![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nermalcat69)
 [![Discord server of 69x Devs](https://img.shields.io/badge/69x_Devs-Discord-blue)](https://discord.gg/mz3WjBabDb)
 [![Discord server of Zerops](https://img.shields.io/badge/Zerops-Discord-blue)](https://discord.gg/xxzmJSDKPT)
-
-[![@nermalcat69 Astro contributions](https://astro.badg.es/v2/contributor/nermalcat69.svg)](https://astro.badg.es/contributor/nermalcat69/)
-
 <a href="https://zerops.io" target="_blank" rel="dofollow" >
 
 ![zerops](public/zerops.svg)
