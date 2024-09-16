@@ -1,13 +1,5 @@
-<img width="100px" alt="gif of rick" src="public/rickyy.gif" />
 
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/378fcd99-595a-4f4a-920d-77d3b3765779
 
 
 
